@@ -1,0 +1,4 @@
+#Sun May 19 19:54:26 ICT 2019
+base.0=D\:\\APLIKASI ORANG\\nomophobia-20190519T073605Z-001\\nomophobia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

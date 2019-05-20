@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Analisis Nomophobia</string>
+
+
+    <string name="review_button">Review List</string>
+    <string name="instructions">Semua pertanyaan menggunakan data valid.
+        \n\n Silahkan pilih salah satu jawaban sesui dengan yang anda alami,
+        pilihan multiple choice radio button
+        \n\n Mohon untuk memilih jawaban terlebih dahulu untuk menghindari hasil analisis menjadi kurang valid.
+        \n\n Jangan tergesa-gesa saat memilih jawaban demi kenyamanan bersama.
+        \n\n Ketika selesai menjawab, maka hasil analisa keluar.
+        \n\n Setelah selesai Anda dapat kembali ke Home dengan menekan ⬅ Tombol.</string>
+
+</resources>
