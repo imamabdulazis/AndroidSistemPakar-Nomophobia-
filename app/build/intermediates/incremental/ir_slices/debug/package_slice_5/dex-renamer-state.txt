@@ -1,4 +1,4 @@
-#Sun May 19 19:54:26 ICT 2019
-base.0=D\:\\APLIKASI ORANG\\nomophobia-20190519T073605Z-001\\nomophobia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Mon May 20 14:14:19 ICT 2019
+base.0=D\:\\REPO\\AndroidSistemPakar-Nomophobia-\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

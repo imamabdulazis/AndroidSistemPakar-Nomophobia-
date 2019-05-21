@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e509e395b5936aaa9b8386d92979c6cb\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e75438bfb4e731b9e11190c1e0e52ea3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\26ec7d66cd23dd2b07fb4e270ae914e1\AndroidManifest.xml:2:1-11:12
@@ -36,25 +36,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\imun\.gradle\cach
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\676bbc1a7177a575606fe2909f2c5d2b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\94684f793c35a7dffb1f8250ff0c1332\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8efce4a357a22f03b093e6a9a91530f0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:1-42:12
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:5:5-40:19
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:5:5-40:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e509e395b5936aaa9b8386d92979c6cb\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e509e395b5936aaa9b8386d92979c6cb\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\26ec7d66cd23dd2b07fb4e270ae914e1\AndroidManifest.xml:9:5-20
@@ -66,73 +66,73 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\imun\.grad
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4f14b952d80fdd91b7551d909c20833a\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:9:9-55
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:9:9-55
 	android:icon
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:7:9-44
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:7:9-44
 	android:allowBackup
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:11:9-40
 activity#odt.tugas.gama.nomophobia.util.ResultActivity
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:13:9-15:58
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:13:9-15:58
 	android:parentActivityName
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:15:13-55
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:15:13-55
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:14:13-48
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:14:13-48
 activity#odt.tugas.gama.nomophobia.VideoActivity
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:16:9-18:58
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:16:9-18:58
 	android:parentActivityName
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:18:13-55
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:18:13-55
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:17:13-42
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:17:13-42
 activity#odt.tugas.gama.nomophobia.AnalisisActivity
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:19:9-21:58
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:19:9-21:58
 	android:parentActivityName
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:21:13-55
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:21:13-55
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:20:13-45
 activity#odt.tugas.gama.nomophobia.MateriActivity
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:22:9-24:58
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:22:9-24:58
 	android:parentActivityName
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:24:13-55
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:24:13-55
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:23:13-43
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:23:13-43
 activity#odt.tugas.gama.nomophobia.QuizActivity
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:25:9-27:58
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:25:9-27:58
 	android:parentActivityName
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:27:13-55
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:27:13-55
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:26:13-41
 activity#odt.tugas.gama.nomophobia.TentangActivity
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:28:9-30:58
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:28:9-30:58
 	android:parentActivityName
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:30:13-55
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:30:13-55
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:29:13-44
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:29:13-44
 activity#odt.tugas.gama.nomophobia.MainActivity
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:31:9-39:20
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:31:9-39:20
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:31:19-47
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:31:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:32:13-38:29
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:32:13-38:29
 action#android.intent.action.MAIN
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:33:17-35:84
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:33:17-35:84
 	android:configChanges
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:35:21-82
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:35:21-82
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:37:17-77
+ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml:37:27-74
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml:37:27-74
 uses-sdk
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e509e395b5936aaa9b8386d92979c6cb\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e509e395b5936aaa9b8386d92979c6cb\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e75438bfb4e731b9e11190c1e0e52ea3\AndroidManifest.xml:20:5-44
@@ -197,13 +197,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\imun\.gradle\c
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\94684f793c35a7dffb1f8250ff0c1332\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8efce4a357a22f03b093e6a9a91530f0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\imun\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8efce4a357a22f03b093e6a9a91530f0\AndroidManifest.xml:20:5-44
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-		ADDED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APLIKASI ORANG\nomophobia-20190519T073605Z-001\nomophobia\app\src\main\AndroidManifest.xml
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+		ADDED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml
+		INJECTED from D:\REPO\AndroidSistemPakar-Nomophobia-\app\src\main\AndroidManifest.xml

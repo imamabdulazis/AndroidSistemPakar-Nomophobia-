@@ -48,123 +48,65 @@ public class DbHelper extends SQLiteOpenHelper {
     }
 
     private void addQuestions() {
-        Question q1 = new Question("Saya Merasa Khawatir Jika Tidak Bisa\n" +
-                "Memperoleh Informasi dan Tertinggal Berita\n" +
-                "Terkini (Misal: Berita Terkini, Cuaca, Dll)\n" +
-                "dengan Menggunakan mobile phone Saat\n" +
-                "Membutuhkannya ?", "Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q1 = new Question("Saya merasa informatif jika memperoleh informasi dan tidak tertinggal berita terkini ", "Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q1);
-        Question q2 = new Question("Saya selalu membawa mobile phone\n" +
-                "kemanapun saya pergi bahkan ke Toilet ?", "Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q2 = new Question("Saya lebih merasa up to date jika mengetahui informasi status di mobile phone", "Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q2);
-        Question q3 = new Question("Saya selalu membawa charger mobile phone\n" +
-                "setiap saya pergi keluar rumah ?", "Sangat Tidak Sesuai", "Tidak Sesuai","Sesuai","Sangat Sesuai","?");
+        Question q3 = new Question("Saya merasa tidak lengkap, jika kemanapun saya pergi bahkan ke toilet tidak membawa  mobile phone", "Sangat Sesuai", "Sesuai","Tidak Sesuai","Sangat Tidak Sesuai","?");
         this.addQuestion(q3);
-        Question q4 = new Question(" Saya lebih nyaman jika mempunyai lebih dari\n" +
-                "satu mobile phone ?", "Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q4 = new Question(" Saya menggunakan mobile phone jika ada kepentingan dan ada yang menghubungi saya", "Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q4);
-        Question q5 = new Question(" Saya Merasa Gelisah dan kesepian Jika Saya\n" +
-                "Tidak Dapat Menghabiskan Waktu Saya Untuk\n" +
-                "Menggunakan mobile phone ?", "Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q5 = new Question(" Saya merasa lebih tenang, jika saya pergi tidak lupa membawa charger  mobile phone" , "Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q5);
-        Question q6= new Question(" Saya Merasa Terganggu Ketika Tidak\n" +
-                "Diperbolehkan Mengunakan mobile phone Dan/\n" +
-                "Atau Fasilitasnya Ketika Saya membutuhkannya\n" +
-                "(Misal: Ketika mobile phone Disita, Tidak\n" +
-                "Boleh Membawa Atau Menggunakan mobile\n" +
-                "phone Dalam Acara Tertentu)?","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q6= new Question(" Saya merasa lebih tenang, jika saya membawa mobile phone dengan baterai keadaan penuh","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q6);
-        Question q7= new Question(" Ketika Saya Tidak Membawa mobile\n" +
-                "phone,Saya Akan Merasa Aneh Karena Saya\n" +
-                "Tidak Tahu Harus Berbuat Apa dan saya tidak\n" +
-                "dapat Up-To-Date dengan Media Sosial Dan\n" +
-                "Jaringan Online Lainnya? ","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q7= new Question(" Saya pasti akan menempatkan mobile phone di tempat yang aman ","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q7);
-        Question q8= new Question(" Saya Merasa Gelisah Jika mobile phone Saya Kehabisan Baterai? ","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q8= new Question(" Jika  mobile phone saya hilang, Saya berusaha untuk segera mungkin membeli mobile phone baru  ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q8);
-        Question q9= new Question(" Saya Merasa Gelisah Jika mobile phone Saya\n" +
-                "Tidak Memiliki Sinyal/Terhubung Jaringan\n" +
-                "Internet? ","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q9= new Question(" Saya yakin jika ada pesan atau panggilan di mobile phone akan ada pemberitahuannya" ,"Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q9);
-        Question q10= new Question(" Saya Merasa Khawatir Jika Saya Tidak Dapat\n" +
-                "Menerima Pesan Atau Telepon Masuk?","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q10= new Question(" Saya akan mengecek  mobile phone , dan berusaha mencari tempat yang terdapat sinyal atau terhubung jaringan internet","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q10);
-        Question q11= new Question("Saya Merasa Gelisah Jika Saya Tidak Bisa\n" +
-                "Mengirim Pesan Melalui Sosial Media\n" +
-                "(Instagram, Wa, Line, Dsb)?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q11= new Question("Jika sinyal mobile phone sedang gangguan saya hanya menunggu sampai stabil kembali","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q11);
-        Question q12= new Question("Jika Saya Tidak Ada Sinyal Paket Data, Atau\n" +
-                "Tidak Dapat Terkoneksi Dengan Wi-Fi, Maka\n" +
-                "Saya Akan Mengecek Terus Menerus Untuk\n" +
-                "Melihat Jika Ada Sinyal Atau Dapat\n" +
-                "Menemukan Koneksi?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q12= new Question("Ketika saya sedang berkunjung ke rumah sodara, sayapun akan bertanya dimana tempat yang terdapat sinyal/WI-FI","Sangat Sesuai", "Sesuai", " Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q12);
-        Question q13= new Question("Saya Merasa Gelisah Jika Tidak Dapat\n" +
-                "Mengecek Notification Pada mobile phone Saya?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q13= new Question("Saya mengecek mobile phone jika ada pemberitahuan masuk","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q13);
-        Question q14= new Question("Ketika Saya Tidak Membawa mobile phone,\n" +
-                "Saya Akan Merasa Aneh Karena Saya Tidak\n" +
-                "Dapat Mengecek Pemberitahuan (Notifications)\n" +
-                "Terbaru Dari Teman Saya dan Jaringan Online\n" +
-                "Lainnya?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q14= new Question("Ketika saya tidak membawa  mobile phone , Saya berusaha segera pulang untuk mengecek informasi terbaru pada media sosial atau jaringan online","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sanagt Tidak Sesuai","?");
         this.addQuestion(q14);
-        Question q15= new Question("Jika Saya Tidak Dapat Mengecek mobile phone\n" +
-                "Untuk Sementara Waktu, Maka Akan Timbul\n" +
-                "Keinginan Untuk Mengeceknya ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q15= new Question("Saya yakin jika ada kegiatan atau informasi yang penting maka infonya tidak akan mendadak","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q15);
-        Question q16= new Question("Ketika Saya Tidak Membawa mobile phone,\n" +
-                "Saya Akan Merasa Cemas Karena Saya Tidak\n" +
-                "Dapat Mengecek Pesan Di E-Mail Saya ?","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q16= new Question("Saya terbiasa mengecek  mobile phone dengan durasi yang pendek (cepat)","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q16);
-        Question q17= new Question("Saya Merasa Khawatir Jika Keluarga Atau Teman Tidak Dapat Menghubungi Saya ? ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q17= new Question("Menurut saya pesan di e-mail penting untuk segera diketahui, maka Saya akan berusaha sigap pada  mobile phone  ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q17);
-        Question q18= new Question("Saya Merasa Khawatir Jika Saya Tidak Dapat\n" +
-                "Menghubungi Keluarga Atau Teman ?","Sangat Sesui", "Sesui", "Tidak Sesui", "Sangat Tidak Sesui","?");
+        Question q18= new Question("Saya memanfaatkan aplikasi pada mobile phone sesuai kebutuhan","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q18);
-        Question q19= new Question("Saya Merasa Khawatir Jika Komunikasi Saya\n" +
-                "Dengan Keluarga Atau Teman Terputus?","Sangat Sesui", "Sesui", "Tidak Sesui", "Sangat Tidak Sesui","?");
+        Question q19= new Question("Jika saya dan keluarga terputus hubungan komunikasinya, Saya segera menemuinya secara langsung","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q19);
-        Question q20= new Question("Saya Merasa Gelisah Jika Tidak Menggunakan\n" +
-                "mobile phone Sebelum Tidur ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q20= new Question("Komunikasi melaluli mobile phone lebih efektif daripada komunikasi secara langsung","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q20);
-        Question q21= new Question("Saya Merasa Gelisah Jika Saya Tidak Bisa\n" +
-                "Memberikan Informasi Kepada Orang Lain\n" +
-                "dengan Cepat ?","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q21= new Question("Saya mematikan mobile phone saat malam hari (sedang istirahat/tidur)","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q21);
-        Question q22= new Question("Saya Merasa Khawatir Jika Saya Tidak Dapat\n" +
-                "Berkomunikasi Dengan Keluarga Atau Teman\n" +
-                "Melalui mobile phone ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q22= new Question("Menurut saya rutinitas mengecek  mobile phone sebelum tidur menjadi kebutuhan saya","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q22);
-        Question q23= new Question("Ketika Saya Tidak Membawa mobile phone,\n" +
-                "Saya Akan Merasa Cemas Karena Saya Tidak\n" +
-                "Dapat Berkomunikasi Secara Langsung Dengan\n" +
-                "Keluarga Dan/Atau Teman ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q23= new Question("Saya merasa cukup komunikatif dengan Keluarga dan Teman melalui  mobile phone dan media sosial ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q23);
-        Question q24= new Question("Ketika Saya Tidak Membawa mobile phone,\n" +
-                "Saya Akan Merasa Cemas Karena Koneksi\n" +
-                "Rutin Saya Dengan Keluarga Dan/ Atau Teman\n" +
-                "Selama Ini Akan Terputus ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q24= new Question("Saya lebih suka untuk berkomunikasi secara langsung","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q24);
-        Question q25= new Question("Ketika Saya Tidak Membawa mobile phone,\n" +
-                "Saya Akan Merasa Khawatir Karena Keluarga\n" +
-                "Dan/ Atau Teman Tidak Dapat Menjangkau\n" +
-                "Saya ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q25= new Question("Ketika saya berkunjung ke rumah sodara atau teman saya tidak sering menggunakan mobile phone","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q25);
-        Question q26= new Question("Jika mobile phone Saya Hilang, Saya Khawatir\n" +
-                "Karena Tidak Dapat Mengirim Pesan dan Panggilan Ke Teman Dan/ Atau Keluarga ? ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q26= new Question("Menurut saya dengan  mobile phone , Saya dengan Keluarga dan/atau Teman bisa saling menjangkau diwaktu yang diinginkan ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q26);
-        Question q27= new Question("Jika mobile phone Saya Hilang, Saya Khawatir\n" +
-                "Karena Data Kontak Teman Dan/Atau Keluarga\n" +
-                "Saya Juga Hilang ?","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q27= new Question("Pemakaian data kuota saya dalam sebulan cukup 2gb","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q27);
-        Question q28= new Question("Saya tidak merasa cemas jika harus membeli\n" +
-                "paket data dua kali dalam sebulan ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q28= new Question("Saya selektif dalam menggunakan paket data kuota pada  mobile phone untuk kebutuhan ","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
         this.addQuestion(q28);
-        Question q29= new Question("Saya selalu menanyakan password WI-FI\n" +
-                "ditempat yang ada jaringan WI-Finya ?","Sangat Tidak Sesuai", "Tidak Sesuai", "Sesuai", "Sangat Sesuai","?");
+        Question q29= new Question("Jika paket data kuota habis belum sebulan atau belum pada waktunya saya siap membeli","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q29);
-        Question q30= new Question("Saya lebih selektif dalam menggunakan data\n" +
-                "kuota mobile phone ? ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
+        Question q30= new Question("SSaya merasa senang menonton youtube walaupun menggunakan kuota banyak ","Sangat Sesuai", "Sesuai", "Tidak Sesuai", "Sangat Tidak Sesuai","?");
         this.addQuestion(q30);
     }
 

@@ -1,4 +1,0 @@
-#Thu Apr 18 15:04:53 WIB 2019
-base.0=/Volumes/IMUN/DARA/nomophobia/app/build/intermediates/dex/release/mergeDexRelease/out
-path.0=classes.dex
-renamed.0=classes.dex

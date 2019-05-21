@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\APLIKASI ORANG\\nomophobia-20190519T073605Z-001\\nomophobia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "D:\\REPO\\AndroidSistemPakar-Nomophobia-\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\imun\\.gradle\\caches\\transforms-1\\files-1.1\\android-about-page-1.2.5.aar\\d7b38d28b5a2c57d45194aa5b466565a\\res\\values-tr\\values-tr.xml",
