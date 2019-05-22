@@ -85,26 +85,18 @@ public class QuizActivity extends AppCompatActivity {
                     case R.id.radio0:
                         skor = 4;
                         butNext.setVisibility(View.VISIBLE);
-                        butNext.startAnimation(AnimationUtils.loadAnimation(activity,R.anim.zoom_in));
-                        Toast.makeText(activity, "" + skor, Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.radio1:
                         skor = 3;
                         butNext.setVisibility(View.VISIBLE);
-                        butNext.startAnimation(AnimationUtils.loadAnimation(activity,R.anim.zoom_in));
-                        Toast.makeText(activity, "" + skor, Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.radio2:
                         skor = 2;
                         butNext.setVisibility(View.VISIBLE);
-                        butNext.startAnimation(AnimationUtils.loadAnimation(activity,R.anim.zoom_in));
-                        Toast.makeText(activity, "" + skor, Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.radio3:
                         skor = 1;
                         butNext.setVisibility(View.VISIBLE);
-                        butNext.startAnimation(AnimationUtils.loadAnimation(activity,R.anim.zoom_in));
-                        Toast.makeText(activity, "" + skor, Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -116,7 +108,7 @@ public class QuizActivity extends AppCompatActivity {
 
                 score += skor++;
                 Log.d("score", "Your score" + score);
-                if (qid < 10) {//jumlah sepulu,mulai dari index 0
+                if (qid < 5) {//jumlah sepulu,mulai dari index 0
                     butNext.setVisibility(View.GONE);
                     currentQ = quesList.get(qid);
                     setQuestionView();
